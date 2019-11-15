@@ -1,2 +1,4 @@
 # DarkBot
-DarkBot's Git
+
+# Update log 1
+Added /meme to the bot.
