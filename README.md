@@ -1,10 +1,10 @@
 # DarkBot
 Darkbot is a discord bot that is used to moderate discord servers.
 
-#Update log 4
+# Update log 4
 Bot back online had a few issues now its fixed.
 
-#Update log 3
+# Update log 3
 Fixed "say2"
 
 # Update log 2
