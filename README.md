@@ -1,6 +1,9 @@
 # DarkBot
 Darkbot is a discord bot that is used to moderate discord servers.
 
+# Update log 7
+Changed prefix to > and open-sourced the main code with 1 command.
+
 # Update log 6
 Offical PFP complete.
 
